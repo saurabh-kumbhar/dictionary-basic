@@ -1,2 +1,7 @@
 # dictionary-basic
-Command Line Tool  Input: word Output: Pronunciation (FunLabel): Definition 
+Command Line Tool
+
+Input: `a word`
+
+Output: 
+`Pronunciation (Type): Definition`
